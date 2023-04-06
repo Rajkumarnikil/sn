@@ -1,4 +1,9 @@
 line 1
+<<<<<<< Updated upstream
 line 3
 
+||||||| Stash base
+=======
+line 2
+>>>>>>> Stashed changes
 
